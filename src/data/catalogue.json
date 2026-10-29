@@ -48,12 +48,14 @@
  ],
  "products": [
   {
+   "name": "Foot Massager",
+   "category": "bien-etre-massage",
    "price": 15000,
    "comparePrice": null,
+   "stock": null,
    "availability": "disponible",
    "hidden": false,
    "featured": true,
-   "images": [],
    "short": "Appareil de massage pour les pieds, pour un moment de détente à la maison.",
    "description": "Après une longue journée, le Foot Massager vous permet de vous accorder une pause détente sans quitter votre maison. Installez-vous confortablement, posez vos pieds et profitez d'un massage simple à utiliser.",
    "features": [],
@@ -61,9 +63,29 @@
    "precautions": "Ne pas utiliser sur une peau blessée ou irritée. En cas de grossesse, de problème circulatoire ou de doute, demandez l'avis d'un professionnel de santé. Tenir hors de portée des enfants.",
    "volume": null,
    "adminNote": "Photo du produit à ajouter.",
+   "images": [
+    {
+     "src": "/uploads/1793277219690-c6384fa7.jpg",
+     "alt": "Foot Massager"
+    },
+    {
+     "src": "/uploads/1793277219716-82b8c015.jpg",
+     "alt": "Foot Massager"
+    },
+    {
+     "src": "/uploads/1793277219783-2b795680.jpg",
+     "alt": "Foot Massager"
+    },
+    {
+     "src": "/uploads/1793277219843-3c159b1f.jpg",
+     "alt": "Foot Massager"
+    },
+    {
+     "src": "/uploads/1793277219883-61735271.jpg",
+     "alt": "Foot Massager"
+    }
+   ],
    "slug": "foot-massager",
-   "name": "Foot Massager",
-   "category": "bien-etre-massage",
    "id": "foot-massager"
   },
   {
@@ -101,12 +123,14 @@
    "id": "scalp-massager"
   },
   {
-   "price": 15000,
-   "comparePrice": null,
+   "name": "Fascial Gun SK-368",
+   "category": "bien-etre-massage",
+   "price": 10000,
+   "comparePrice": 15000,
+   "stock": null,
    "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [],
    "short": "Pistolet de massage SK-368 pour masser les muscles après l'effort ou une longue journée.",
    "description": "Le Fascial Gun SK-368 est un pistolet de massage à percussions. Il se prend en main facilement pour masser les zones musculaires comme le dos, les épaules, les bras ou les jambes.",
    "features": [],
@@ -114,18 +138,24 @@
    "precautions": "Ne pas utiliser sur la tête, le cou, les os, les articulations ou une zone douloureuse ou blessée. En cas de problème de santé, demandez l'avis d'un professionnel.",
    "volume": null,
    "adminNote": "Photo du produit à ajouter.",
+   "images": [
+    {
+     "src": "/uploads/1793277407837-6ae50eb2.jpg",
+     "alt": "Fascial Gun SK-368"
+    }
+   ],
    "slug": "fascial-gun-sk-368",
-   "name": "Fascial Gun SK-368",
-   "category": "bien-etre-massage",
    "id": "fascial-gun-sk-368"
   },
   {
-   "price": 10000,
+   "name": "Hoygi Collagen Night Wrapping Mask",
+   "category": "soins-visage",
+   "price": 5000,
    "comparePrice": null,
+   "stock": null,
    "availability": "disponible",
    "hidden": false,
    "featured": true,
-   "images": [],
    "short": "Masque de nuit au collagène à appliquer le soir sur le visage.",
    "description": "Le Hoygi Collagen Night Wrapping Mask s'intègre à votre routine du soir. Appliqué avant le coucher, il accompagne le soin de votre peau pendant la nuit.",
    "features": [],
@@ -133,18 +163,40 @@
    "precautions": "Faites un test sur une petite zone de peau avant la première utilisation. Éviter le contour des yeux. Arrêter en cas d'irritation.",
    "volume": null,
    "adminNote": "Nom communiqué : « Collagen Night Mask ». Photo du produit à ajouter.",
+   "images": [
+    {
+     "src": "/uploads/1793277679966-cbca5baa.jpg",
+     "alt": "Hoygi Collagen Night Wrapping Mask"
+    },
+    {
+     "src": "/uploads/1793277679940-d8292729.jpg",
+     "alt": "Hoygi Collagen Night Wrapping Mask"
+    },
+    {
+     "src": "/uploads/1793277679868-304d6e4c.jpg",
+     "alt": "Hoygi Collagen Night Wrapping Mask"
+    },
+    {
+     "src": "/uploads/1793277679899-d4dc6e30.jpg",
+     "alt": "Hoygi Collagen Night Wrapping Mask"
+    },
+    {
+     "src": "/uploads/1793277679825-55ab4387.jpg",
+     "alt": "Hoygi Collagen Night Wrapping Mask"
+    }
+   ],
    "slug": "collagen-night-mask",
-   "name": "Hoygi Collagen Night Wrapping Mask",
-   "category": "soins-visage",
    "id": "collagen-night-mask"
   },
   {
-   "price": 11000,
-   "comparePrice": null,
+   "name": "Whitening Strips",
+   "category": "soins-visage",
+   "price": 3000,
+   "comparePrice": 5000,
+   "stock": null,
    "availability": "disponible",
    "hidden": false,
    "featured": true,
-   "images": [],
    "short": "Bandes blanchissantes dentaires à utiliser à la maison.",
    "description": "Les Whitening Strips sont des bandes à poser sur les dents, pour un soin du sourire à faire chez soi. Le résultat varie selon chaque personne.",
    "features": [],
@@ -152,18 +204,44 @@
    "precautions": "Ne pas utiliser en cas de gencives sensibles ou irritées, de caries non soignées, ni chez l'enfant. En cas de sensibilité, arrêter et demander l'avis d'un dentiste.",
    "volume": null,
    "adminNote": "Rangé ici faute de rayon « soins bucco-dentaires » (sourire). Ancien prix mémoire : 5 000 FCFA, nouveau prix communiqué : 11 000 FCFA. Photo à ajouter.",
+   "images": [
+    {
+     "src": "/uploads/1793277971284-bc6404ad.jpg",
+     "alt": "Whitening Strips"
+    },
+    {
+     "src": "/uploads/1793277971120-702de84a.jpg",
+     "alt": "Whitening Strips"
+    },
+    {
+     "src": "/uploads/1793277971090-f031c66c.jpg",
+     "alt": "Whitening Strips"
+    },
+    {
+     "src": "/uploads/1793277971207-2942c532.jpg",
+     "alt": "Whitening Strips"
+    },
+    {
+     "src": "/uploads/1793277971262-cc44dada.jpg",
+     "alt": "Whitening Strips"
+    },
+    {
+     "src": "/uploads/1793277971166-4f2e67fb.jpg",
+     "alt": "Whitening Strips"
+    }
+   ],
    "slug": "whitening-strips",
-   "name": "Whitening Strips",
-   "category": "soins-visage",
    "id": "whitening-strips"
   },
   {
+   "name": "MOOYAM Herbal Fast Effective Skin Repairing Gel",
+   "category": "soins-visage",
    "price": 8000,
-   "comparePrice": null,
+   "comparePrice": 10000,
+   "stock": null,
    "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [],
    "short": "Gel de soin pour la peau de la marque MOOYAM.",
    "description": "Le gel MOOYAM Herbal Skin Repairing Gel est un soin à appliquer sur la peau selon les indications de la notice.",
    "features": [],
@@ -171,18 +249,40 @@
    "precautions": "Faites un test sur une petite zone avant la première utilisation. Ne pas appliquer sur une plaie ouverte. Arrêter en cas d'irritation.",
    "volume": null,
    "adminNote": "Catégorie à vérifier avec la notice (visage ou corps). Photo à ajouter.",
+   "images": [
+    {
+     "src": "/uploads/1793278648278-f0421f67.jpg",
+     "alt": "MOOYAM Herbal Fast Effective Skin Repairing Gel"
+    },
+    {
+     "src": "/uploads/1793278648083-3531a42c.jpg",
+     "alt": "MOOYAM Herbal Fast Effective Skin Repairing Gel"
+    },
+    {
+     "src": "/uploads/1793278648200-69aebd70.jpg",
+     "alt": "MOOYAM Herbal Fast Effective Skin Repairing Gel"
+    },
+    {
+     "src": "/uploads/1793278648153-812f2843.jpg",
+     "alt": "MOOYAM Herbal Fast Effective Skin Repairing Gel"
+    },
+    {
+     "src": "/uploads/1793278648055-a5030aef.jpg",
+     "alt": "MOOYAM Herbal Fast Effective Skin Repairing Gel"
+    }
+   ],
    "slug": "mooyam-herbal-skin-repairing-gel",
-   "name": "MOOYAM Herbal Fast Effective Skin Repairing Gel",
-   "category": "soins-visage",
    "id": "mooyam-herbal-skin-repairing-gel"
   },
   {
-   "price": 14000,
-   "comparePrice": null,
+   "name": "Lipoma Cream 20 g",
+   "category": "beaute-corps",
+   "price": 8000,
+   "comparePrice": 10000,
+   "stock": null,
    "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [],
    "short": "Crème OUHOE en tube de 20 g, à appliquer sur la peau.",
    "description": "La crème OUHOE Lipoma Cream est vendue en tube de 20 g. Elle s'applique localement sur la peau en suivant la notice du fabricant.",
    "features": [],
@@ -190,18 +290,36 @@
    "precautions": "Ce produit cosmétique ne remplace pas un avis médical. Pour toute grosseur sous la peau, consultez un médecin. Ne pas appliquer sur une plaie. Arrêter en cas d'irritation.",
    "volume": "20 g",
    "adminNote": "Ancien prix mémoire : 10 000 FCFA, nouveau prix communiqué : 14 000 FCFA. Photo à ajouter.",
+   "images": [
+    {
+     "src": "/uploads/1793278741398-c59b246e.jpg",
+     "alt": "Lipoma Cream 20 g"
+    },
+    {
+     "src": "/uploads/1793278741459-3b1f6202.jpg",
+     "alt": "Lipoma Cream 20 g"
+    },
+    {
+     "src": "/uploads/1793278741538-4b0dfcf8.jpg",
+     "alt": "Lipoma Cream 20 g"
+    },
+    {
+     "src": "/uploads/1793278741495-a1764787.jpg",
+     "alt": "Lipoma Cream 20 g"
+    }
+   ],
    "slug": "ouhoe-lipoma-cream",
-   "name": "OUHOE Lipoma Cream 20 g",
-   "category": "beaute-corps",
    "id": "ouhoe-lipoma-cream"
   },
   {
+   "name": "Private Antibacterial Cream",
+   "category": "beaute-corps",
    "price": 8000,
    "comparePrice": null,
+   "stock": null,
    "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [],
    "short": "Crème de soin pour l'hygiène des zones intimes externes.",
    "description": "La Private Antibacterial Cream est un soin pour l'hygiène des zones intimes externes. Utilisez-la en suivant les indications de la notice.",
    "features": [],
@@ -209,29 +327,44 @@
    "precautions": "En cas de démangeaisons, douleurs ou pertes inhabituelles, consultez un professionnel de santé. Ne pas utiliser en cas d'irritation.",
    "volume": null,
    "adminNote": "Vérifier la description avec la notice. Photo à ajouter.",
+   "images": [
+    {
+     "src": "/uploads/1793279091837-52f194f9.jpg",
+     "alt": "Private Antibacterial Cream"
+    },
+    {
+     "src": "/uploads/1793279091922-ba16967f.jpg",
+     "alt": "Private Antibacterial Cream"
+    },
+    {
+     "src": "/uploads/1793279091947-ef969bcf.jpg",
+     "alt": "Private Antibacterial Cream"
+    },
+    {
+     "src": "/uploads/1793279091888-b64de83c.jpg",
+     "alt": "Private Antibacterial Cream"
+    },
+    {
+     "src": "/uploads/1793279091993-2a3f08b8.jpg",
+     "alt": "Private Antibacterial Cream"
+    },
+    {
+     "src": "/uploads/1793279092024-d20dcf1a.jpg",
+     "alt": "Private Antibacterial Cream"
+    }
+   ],
    "slug": "private-antibacterial-cream",
-   "name": "Private Antibacterial Cream",
-   "category": "beaute-corps",
    "id": "private-antibacterial-cream"
   },
   {
-   "price": null,
+   "name": "Sumifun Leg Edema Relief Cream 20 g",
+   "category": "beaute-corps",
+   "price": 8000,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/sumifun-1-900.webp",
-     "thumb": "/images/products/sumifun-1-450.webp",
-     "alt": "Sumifun Leg Edema Relief Cream, boîte et tube de 20 g"
-    },
-    {
-     "src": "/images/products/sumifun-2-900.webp",
-     "thumb": "/images/products/sumifun-2-450.webp",
-     "alt": "Sumifun Leg Edema Relief Cream, boîte et tube de 20 g (photo 2)"
-    }
-   ],
    "short": "Crème pour les jambes et les pieds, tube de 20 g.",
    "description": "La crème Sumifun Leg Edema Relief Cream se présente en tube de 20 g avec sa boîte. Elle s'applique par massage sur les jambes et les pieds, selon la notice.",
    "features": [
@@ -242,17 +375,39 @@
    "precautions": "Des jambes ou des pieds gonflés peuvent avoir une cause médicale : consultez un médecin si le gonflement est important, soudain ou douloureux. Ne pas appliquer sur une plaie.",
    "volume": "20 g",
    "adminNote": "Prix à confirmer. Nom écrit « Sumifin » dans la demande, « Sumifun » sur l'emballage.",
+   "images": [
+    {
+     "src": "/images/products/sumifun-2-900.webp",
+     "thumb": "/images/products/sumifun-2-450.webp",
+     "alt": "Sumifun Leg Edema Relief Cream, boîte et tube de 20 g (photo 2)"
+    },
+    {
+     "src": "/images/products/sumifun-1-900.webp",
+     "thumb": "/images/products/sumifun-1-450.webp",
+     "alt": "Sumifun Leg Edema Relief Cream, boîte et tube de 20 g"
+    }
+   ],
    "slug": "sumifun-leg-edema-relief-cream",
-   "name": "Sumifun Leg Edema Relief Cream 20 g",
-   "category": "beaute-corps",
    "id": "sumifun-leg-edema-relief-cream"
   },
   {
-   "price": null,
+   "name": "ENVISHA Scar Removal Cream",
+   "category": "beaute-corps",
+   "price": 8000,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
+   "short": "Soin ENVISHA pour l'aspect de la peau marquée par des cicatrices.",
+   "description": "ENVISHA est un soin en tube destiné à la peau marquée par des cicatrices. Il s'applique régulièrement, en petite quantité, sur une peau propre et cicatrisée.",
+   "features": [
+    "Ingrédients mis en avant par le fabricant : aloe vera, centella, glycérine, hyaluronate de sodium"
+   ],
+   "usage": "Appliquez sur une peau propre et déjà cicatrisée, selon la notice. Les résultats varient selon chaque personne.",
+   "precautions": "Ne pas appliquer sur une plaie ouverte. Faites un test sur une petite zone avant la première utilisation.",
+   "volume": null,
+   "adminNote": "Prix à confirmer. L'emballage indique « Scar Removal Gel ».",
    "images": [
     {
      "src": "/images/products/envisha-1-900.webp",
@@ -265,46 +420,55 @@
      "alt": "ENVISHA Scar Removal, tube de soin (photo 2)"
     }
    ],
-   "short": "Soin ENVISHA pour l'aspect de la peau marquée par des cicatrices.",
-   "description": "ENVISHA est un soin en tube destiné à la peau marquée par des cicatrices. Il s'applique régulièrement, en petite quantité, sur une peau propre et cicatrisée.",
-   "features": [
-    "Ingrédients mis en avant par le fabricant : aloe vera, centella, glycérine, hyaluronate de sodium"
-   ],
-   "usage": "Appliquez sur une peau propre et déjà cicatrisée, selon la notice. Les résultats varient selon chaque personne.",
-   "precautions": "Ne pas appliquer sur une plaie ouverte. Faites un test sur une petite zone avant la première utilisation.",
-   "volume": null,
-   "adminNote": "Prix à confirmer. L'emballage indique « Scar Removal Gel ».",
    "slug": "envisha-scar-removal-cream",
-   "name": "ENVISHA Scar Removal Cream",
-   "category": "beaute-corps",
    "id": "envisha-scar-removal-cream"
   },
   {
-   "price": null,
+   "name": "MOOYAM 7Days",
+   "category": "beaute-corps",
+   "price": 5000,
    "comparePrice": null,
-   "availability": "a-confirmer",
-   "hidden": true,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
    "featured": false,
-   "images": [],
    "short": "Sérum de soin pour les ongles et la peau.",
    "description": "Sérum de soin à appliquer selon les indications du fabricant.",
    "features": [],
    "usage": "Consultez la notice du fabricant avant utilisation.",
-   "precautions": "En cas d'infection persistante, consultez un professionnel de santé.",
+   "precautions": "",
    "volume": null,
    "adminNote": "Prix, marque, photo et usage exact à confirmer avant publication.",
+   "images": [
+    {
+     "src": "/uploads/1793279726410-745f0567.jpg",
+     "alt": "Sérum anti-mycose"
+    },
+    {
+     "src": "/uploads/1793279726483-cdba9d80.jpg",
+     "alt": "Sérum anti-mycose"
+    },
+    {
+     "src": "/uploads/1793279726543-24ae59d2.jpg",
+     "alt": "Sérum anti-mycose"
+    },
+    {
+     "src": "/uploads/1793279726595-71874786.jpg",
+     "alt": "Sérum anti-mycose"
+    }
+   ],
    "slug": "serum-anti-mycose",
-   "name": "Sérum anti-mycose",
-   "category": "beaute-corps",
    "id": "serum-anti-mycose"
   },
   {
-   "price": null,
+   "name": "South Moon Stretch Marks Cream",
+   "category": "beaute-corps",
+   "price": 10000,
    "comparePrice": null,
-   "availability": "a-confirmer",
-   "hidden": true,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
    "featured": false,
-   "images": [],
    "short": "Crème South Moon pour la peau marquée par les vergetures.",
    "description": "Crème de soin South Moon à appliquer sur les zones concernées, selon la notice.",
    "features": [],
@@ -312,24 +476,40 @@
    "precautions": "Faites un test sur une petite zone avant la première utilisation.",
    "volume": null,
    "adminNote": "Masqué : retiré de la liste en septembre, réapparu dans la demande d'octobre. À confirmer avant publication.",
+   "images": [
+    {
+     "src": "/uploads/1793280084707-26db4320.jpg",
+     "alt": "South Moon Stretch Marks Cream"
+    },
+    {
+     "src": "/uploads/1793280084661-d8d7f8fa.jpg",
+     "alt": "South Moon Stretch Marks Cream"
+    },
+    {
+     "src": "/uploads/1793280084630-ea3e080a.jpg",
+     "alt": "South Moon Stretch Marks Cream"
+    },
+    {
+     "src": "/uploads/1793280084579-958b945d.jpg",
+     "alt": "South Moon Stretch Marks Cream"
+    },
+    {
+     "src": "/uploads/1793280084550-331ff24a.jpg",
+     "alt": "South Moon Stretch Marks Cream"
+    }
+   ],
    "slug": "south-moon-stretch-marks-cream",
-   "name": "South Moon Stretch Marks Cream",
-   "category": "beaute-corps",
    "id": "south-moon-stretch-marks-cream"
   },
   {
+   "name": "Afnan 9PM",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": true,
-   "images": [
-    {
-     "src": "/images/products/parfum-9pm-900.webp",
-     "thumb": "/images/products/parfum-9pm-450.webp",
-     "alt": "Parfum Afnan 9PM, flacon et coffret"
-    }
-   ],
    "short": "Parfum Afnan 9PM, disponible chez SunuCare Shop.",
    "description": "Découvrez Afnan 9PM, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -337,24 +517,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-9pm-900.webp",
+     "thumb": "/images/products/parfum-9pm-450.webp",
+     "alt": "Parfum Afnan 9PM, flacon et coffret"
+    }
+   ],
    "slug": "afnan-9pm",
-   "name": "Afnan 9PM",
-   "category": "parfums",
    "id": "afnan-9pm"
   },
   {
+   "name": "Afnan 9PM Night Out",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-9pm-night-out-900.webp",
-     "thumb": "/images/products/parfum-9pm-night-out-450.webp",
-     "alt": "Parfum Afnan 9PM Night Out, flacon et coffret"
-    }
-   ],
    "short": "Parfum Afnan 9PM Night Out, disponible chez SunuCare Shop.",
    "description": "Découvrez Afnan 9PM Night Out, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -362,24 +543,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-9pm-night-out-900.webp",
+     "thumb": "/images/products/parfum-9pm-night-out-450.webp",
+     "alt": "Parfum Afnan 9PM Night Out, flacon et coffret"
+    }
+   ],
    "slug": "afnan-9pm-night-out",
-   "name": "Afnan 9PM Night Out",
-   "category": "parfums",
    "id": "afnan-9pm-night-out"
   },
   {
+   "name": "Afnan 9PM Elixir",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-9pm-elixir-900.webp",
-     "thumb": "/images/products/parfum-9pm-elixir-450.webp",
-     "alt": "Parfum Afnan 9PM Elixir, flacon et coffret"
-    }
-   ],
    "short": "Parfum Afnan 9PM Elixir, disponible chez SunuCare Shop.",
    "description": "Découvrez Afnan 9PM Elixir, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -387,17 +569,32 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-9pm-elixir-900.webp",
+     "thumb": "/images/products/parfum-9pm-elixir-450.webp",
+     "alt": "Parfum Afnan 9PM Elixir, flacon et coffret"
+    }
+   ],
    "slug": "afnan-9pm-elixir",
-   "name": "Afnan 9PM Elixir",
-   "category": "parfums",
    "id": "afnan-9pm-elixir"
   },
   {
+   "name": "Lattafa Khamrah",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": true,
+   "short": "Parfum Lattafa Khamrah, disponible chez SunuCare Shop.",
+   "description": "Découvrez Lattafa Khamrah, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
+   "features": [],
+   "usage": "Vaporisez sur la peau (cou, poignets) ou sur les vêtements, à environ 15 cm.",
+   "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
+   "volume": null,
+   "adminNote": "Prix, volume et notes olfactives à confirmer.",
    "images": [
     {
      "src": "/images/products/parfum-khamrah-1-900.webp",
@@ -410,31 +607,18 @@
      "alt": "Parfum Lattafa Khamrah, flacon et boîte"
     }
    ],
-   "short": "Parfum Lattafa Khamrah, disponible chez SunuCare Shop.",
-   "description": "Découvrez Lattafa Khamrah, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
-   "features": [],
-   "usage": "Vaporisez sur la peau (cou, poignets) ou sur les vêtements, à environ 15 cm.",
-   "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
-   "volume": null,
-   "adminNote": "Prix, volume et notes olfactives à confirmer.",
    "slug": "lattafa-khamrah",
-   "name": "Lattafa Khamrah",
-   "category": "parfums",
    "id": "lattafa-khamrah"
   },
   {
+   "name": "Lattafa Khamrah Qahwa",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-khamrah-qahwa-900.webp",
-     "thumb": "/images/products/parfum-khamrah-qahwa-450.webp",
-     "alt": "Parfum Lattafa Khamrah Qahwa, flacon et coffret"
-    }
-   ],
    "short": "Parfum Lattafa Khamrah Qahwa, disponible chez SunuCare Shop.",
    "description": "Découvrez Lattafa Khamrah Qahwa, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -442,24 +626,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-khamrah-qahwa-900.webp",
+     "thumb": "/images/products/parfum-khamrah-qahwa-450.webp",
+     "alt": "Parfum Lattafa Khamrah Qahwa, flacon et coffret"
+    }
+   ],
    "slug": "lattafa-khamrah-qahwa",
-   "name": "Lattafa Khamrah Qahwa",
-   "category": "parfums",
    "id": "lattafa-khamrah-qahwa"
   },
   {
+   "name": "Lattafa Musamam",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": true,
-   "images": [
-    {
-     "src": "/images/products/parfum-musamam-900.webp",
-     "thumb": "/images/products/parfum-musamam-450.webp",
-     "alt": "Parfum Lattafa Musamam, flacon et coffret"
-    }
-   ],
    "short": "Parfum Lattafa Musamam, disponible chez SunuCare Shop.",
    "description": "Découvrez Lattafa Musamam, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -467,24 +652,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-musamam-900.webp",
+     "thumb": "/images/products/parfum-musamam-450.webp",
+     "alt": "Parfum Lattafa Musamam, flacon et coffret"
+    }
+   ],
    "slug": "lattafa-musamam",
-   "name": "Lattafa Musamam",
-   "category": "parfums",
    "id": "lattafa-musamam"
   },
   {
+   "name": "Lattafa Musamam Black Intense",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-musamam-black-intense-900.webp",
-     "thumb": "/images/products/parfum-musamam-black-intense-450.webp",
-     "alt": "Parfum Lattafa Musamam Black Intense, flacon et coffret"
-    }
-   ],
    "short": "Parfum Lattafa Musamam Black Intense, disponible chez SunuCare Shop.",
    "description": "Découvrez Lattafa Musamam Black Intense, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -492,24 +678,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-musamam-black-intense-900.webp",
+     "thumb": "/images/products/parfum-musamam-black-intense-450.webp",
+     "alt": "Parfum Lattafa Musamam Black Intense, flacon et coffret"
+    }
+   ],
    "slug": "lattafa-musamam-black-intense",
-   "name": "Lattafa Musamam Black Intense",
-   "category": "parfums",
    "id": "lattafa-musamam-black-intense"
   },
   {
+   "name": "Lattafa Musamam White Intense",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-musamam-white-intense-900.webp",
-     "thumb": "/images/products/parfum-musamam-white-intense-450.webp",
-     "alt": "Parfum Lattafa Musamam White Intense, flacon et coffret"
-    }
-   ],
    "short": "Parfum Lattafa Musamam White Intense, disponible chez SunuCare Shop.",
    "description": "Découvrez Lattafa Musamam White Intense, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -517,24 +704,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-musamam-white-intense-900.webp",
+     "thumb": "/images/products/parfum-musamam-white-intense-450.webp",
+     "alt": "Parfum Lattafa Musamam White Intense, flacon et coffret"
+    }
+   ],
    "slug": "lattafa-musamam-white-intense",
-   "name": "Lattafa Musamam White Intense",
-   "category": "parfums",
    "id": "lattafa-musamam-white-intense"
   },
   {
+   "name": "Lattafa Ramz",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-ramz-900.webp",
-     "thumb": "/images/products/parfum-ramz-450.webp",
-     "alt": "Parfum Lattafa Ramz, flacon et coffret"
-    }
-   ],
    "short": "Parfum Lattafa Ramz, disponible chez SunuCare Shop.",
    "description": "Découvrez Lattafa Ramz, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -542,24 +730,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-ramz-900.webp",
+     "thumb": "/images/products/parfum-ramz-450.webp",
+     "alt": "Parfum Lattafa Ramz, flacon et coffret"
+    }
+   ],
    "slug": "lattafa-ramz",
-   "name": "Lattafa Ramz",
-   "category": "parfums",
    "id": "lattafa-ramz"
   },
   {
+   "name": "Zaara Casanova",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": true,
-   "images": [
-    {
-     "src": "/images/products/parfum-zaara-casanova-900.webp",
-     "thumb": "/images/products/parfum-zaara-casanova-450.webp",
-     "alt": "Parfum Zaara Casanova, flacon et coffret"
-    }
-   ],
    "short": "Parfum Zaara Casanova, disponible chez SunuCare Shop.",
    "description": "Découvrez Zaara Casanova, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -567,24 +756,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-zaara-casanova-900.webp",
+     "thumb": "/images/products/parfum-zaara-casanova-450.webp",
+     "alt": "Parfum Zaara Casanova, flacon et coffret"
+    }
+   ],
    "slug": "zaara-casanova",
-   "name": "Zaara Casanova",
-   "category": "parfums",
    "id": "zaara-casanova"
   },
   {
+   "name": "Pendora Scents Intense Wayfarer",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-intense-wayfarer-900.webp",
-     "thumb": "/images/products/parfum-intense-wayfarer-450.webp",
-     "alt": "Parfum Pendora Scents Intense Wayfarer, flacon et coffret"
-    }
-   ],
    "short": "Parfum Pendora Scents Intense Wayfarer, disponible chez SunuCare Shop.",
    "description": "Découvrez Pendora Scents Intense Wayfarer, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -592,24 +782,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-intense-wayfarer-900.webp",
+     "thumb": "/images/products/parfum-intense-wayfarer-450.webp",
+     "alt": "Parfum Pendora Scents Intense Wayfarer, flacon et coffret"
+    }
+   ],
    "slug": "intense-wayfarer",
-   "name": "Pendora Scents Intense Wayfarer",
-   "category": "parfums",
    "id": "intense-wayfarer"
   },
   {
+   "name": "Azzaro The Most Wanted Parfum",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-the-most-wanted-900.webp",
-     "thumb": "/images/products/parfum-the-most-wanted-450.webp",
-     "alt": "Parfum Azzaro The Most Wanted Parfum, flacon et coffret"
-    }
-   ],
    "short": "Parfum Azzaro The Most Wanted Parfum, disponible chez SunuCare Shop.",
    "description": "Découvrez Azzaro The Most Wanted Parfum, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -617,24 +808,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-the-most-wanted-900.webp",
+     "thumb": "/images/products/parfum-the-most-wanted-450.webp",
+     "alt": "Parfum Azzaro The Most Wanted Parfum, flacon et coffret"
+    }
+   ],
    "slug": "azzaro-the-most-wanted-parfum",
-   "name": "Azzaro The Most Wanted Parfum",
-   "category": "parfums",
    "id": "azzaro-the-most-wanted-parfum"
   },
   {
+   "name": "Khadlaj Oud pour Klassik",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-oud-pour-klassik-900.webp",
-     "thumb": "/images/products/parfum-oud-pour-klassik-450.webp",
-     "alt": "Parfum Khadlaj Oud pour Klassik, flacon et coffret"
-    }
-   ],
    "short": "Parfum Khadlaj Oud pour Klassik, disponible chez SunuCare Shop.",
    "description": "Découvrez Khadlaj Oud pour Klassik, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -642,24 +834,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-oud-pour-klassik-900.webp",
+     "thumb": "/images/products/parfum-oud-pour-klassik-450.webp",
+     "alt": "Parfum Khadlaj Oud pour Klassik, flacon et coffret"
+    }
+   ],
    "slug": "oud-pour-klassik",
-   "name": "Khadlaj Oud pour Klassik",
-   "category": "parfums",
    "id": "oud-pour-klassik"
   },
   {
+   "name": "Reef 33",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-reef-33-900.webp",
-     "thumb": "/images/products/parfum-reef-33-450.webp",
-     "alt": "Parfum Reef 33, flacon et coffret"
-    }
-   ],
    "short": "Parfum Reef 33, disponible chez SunuCare Shop.",
    "description": "Découvrez Reef 33, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -667,24 +860,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-reef-33-900.webp",
+     "thumb": "/images/products/parfum-reef-33-450.webp",
+     "alt": "Parfum Reef 33, flacon et coffret"
+    }
+   ],
    "slug": "reef-33",
-   "name": "Reef 33",
-   "category": "parfums",
    "id": "reef-33"
   },
   {
+   "name": "Madawi",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-madawi-900.webp",
-     "thumb": "/images/products/parfum-madawi-450.webp",
-     "alt": "Parfum Madawi, flacon et coffret"
-    }
-   ],
    "short": "Parfum Madawi, disponible chez SunuCare Shop.",
    "description": "Découvrez Madawi, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -692,24 +886,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-madawi-900.webp",
+     "thumb": "/images/products/parfum-madawi-450.webp",
+     "alt": "Parfum Madawi, flacon et coffret"
+    }
+   ],
    "slug": "madawi",
-   "name": "Madawi",
-   "category": "parfums",
    "id": "madawi"
   },
   {
+   "name": "Taraf",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-taraf-900.webp",
-     "thumb": "/images/products/parfum-taraf-450.webp",
-     "alt": "Parfum Taraf, flacon et coffret"
-    }
-   ],
    "short": "Parfum Taraf, disponible chez SunuCare Shop.",
    "description": "Découvrez Taraf, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -717,24 +912,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-taraf-900.webp",
+     "thumb": "/images/products/parfum-taraf-450.webp",
+     "alt": "Parfum Taraf, flacon et coffret"
+    }
+   ],
    "slug": "taraf",
-   "name": "Taraf",
-   "category": "parfums",
    "id": "taraf"
   },
   {
+   "name": "Khair Fusion",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-khair-fusion-900.webp",
-     "thumb": "/images/products/parfum-khair-fusion-450.webp",
-     "alt": "Parfum Khair Fusion, flacon et coffret"
-    }
-   ],
    "short": "Parfum Khair Fusion, disponible chez SunuCare Shop.",
    "description": "Découvrez Khair Fusion, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -742,17 +938,32 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-khair-fusion-900.webp",
+     "thumb": "/images/products/parfum-khair-fusion-450.webp",
+     "alt": "Parfum Khair Fusion, flacon et coffret"
+    }
+   ],
    "slug": "khair-fusion",
-   "name": "Khair Fusion",
-   "category": "parfums",
    "id": "khair-fusion"
   },
   {
+   "name": "Marshmallow Blush",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
+   "short": "Parfum Marshmallow Blush, disponible chez SunuCare Shop.",
+   "description": "Découvrez Marshmallow Blush, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
+   "features": [],
+   "usage": "Vaporisez sur la peau (cou, poignets) ou sur les vêtements, à environ 15 cm.",
+   "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
+   "volume": null,
+   "adminNote": "Prix, volume et notes olfactives à confirmer.",
    "images": [
     {
      "src": "/images/products/parfum-marshmallow-blush-1-900.webp",
@@ -765,31 +976,18 @@
      "alt": "Parfum Marshmallow Blush et sa boîte"
     }
    ],
-   "short": "Parfum Marshmallow Blush, disponible chez SunuCare Shop.",
-   "description": "Découvrez Marshmallow Blush, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
-   "features": [],
-   "usage": "Vaporisez sur la peau (cou, poignets) ou sur les vêtements, à environ 15 cm.",
-   "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
-   "volume": null,
-   "adminNote": "Prix, volume et notes olfactives à confirmer.",
    "slug": "marshmallow-blush",
-   "name": "Marshmallow Blush",
-   "category": "parfums",
    "id": "marshmallow-blush"
   },
   {
+   "name": "French Avenue Liquid Brun",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-liquid-brun-900.webp",
-     "thumb": "/images/products/parfum-liquid-brun-450.webp",
-     "alt": "Parfum French Avenue Liquid Brun, flacon et coffret"
-    }
-   ],
    "short": "Parfum French Avenue Liquid Brun, disponible chez SunuCare Shop.",
    "description": "Découvrez French Avenue Liquid Brun, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -797,24 +995,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-liquid-brun-900.webp",
+     "thumb": "/images/products/parfum-liquid-brun-450.webp",
+     "alt": "Parfum French Avenue Liquid Brun, flacon et coffret"
+    }
+   ],
    "slug": "liquid-brun",
-   "name": "French Avenue Liquid Brun",
-   "category": "parfums",
    "id": "liquid-brun"
   },
   {
+   "name": "Taskeen Caramel Cascade",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-taskeen-caramel-cascade-900.webp",
-     "thumb": "/images/products/parfum-taskeen-caramel-cascade-450.webp",
-     "alt": "Parfum Taskeen Caramel Cascade, flacon et coffret"
-    }
-   ],
    "short": "Parfum Taskeen Caramel Cascade, disponible chez SunuCare Shop.",
    "description": "Découvrez Taskeen Caramel Cascade, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -822,24 +1021,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-taskeen-caramel-cascade-900.webp",
+     "thumb": "/images/products/parfum-taskeen-caramel-cascade-450.webp",
+     "alt": "Parfum Taskeen Caramel Cascade, flacon et coffret"
+    }
+   ],
    "slug": "taskeen-caramel-cascade",
-   "name": "Taskeen Caramel Cascade",
-   "category": "parfums",
    "id": "taskeen-caramel-cascade"
   },
   {
+   "name": "Ciao",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-ciao-900.webp",
-     "thumb": "/images/products/parfum-ciao-450.webp",
-     "alt": "Parfum Ciao, flacon et coffret"
-    }
-   ],
    "short": "Parfum Ciao, disponible chez SunuCare Shop.",
    "description": "Découvrez Ciao, une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -847,24 +1047,25 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-ciao-900.webp",
+     "thumb": "/images/products/parfum-ciao-450.webp",
+     "alt": "Parfum Ciao, flacon et coffret"
+    }
+   ],
    "slug": "ciao",
-   "name": "Ciao",
-   "category": "parfums",
    "id": "ciao"
   },
   {
+   "name": "Seasons (Rise et Drift)",
+   "category": "parfums",
    "price": null,
    "comparePrice": null,
-   "availability": "a-confirmer",
+   "stock": null,
+   "availability": "disponible",
    "hidden": false,
    "featured": false,
-   "images": [
-    {
-     "src": "/images/products/parfum-seasons-900.webp",
-     "thumb": "/images/products/parfum-seasons-450.webp",
-     "alt": "Parfum Seasons (Rise et Drift), flacon et coffret"
-    }
-   ],
    "short": "Parfum Seasons (Rise et Drift), disponible chez SunuCare Shop.",
    "description": "Découvrez Seasons (Rise et Drift), une référence de notre sélection de parfums. Contactez-nous sur WhatsApp pour connaître le prix, le format disponible et les détails du flacon.",
    "features": [],
@@ -872,10 +1073,310 @@
    "precautions": "Ne pas vaporiser près des yeux. Faites un essai sur une petite zone si vous avez la peau sensible.",
    "volume": null,
    "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/images/products/parfum-seasons-900.webp",
+     "thumb": "/images/products/parfum-seasons-450.webp",
+     "alt": "Parfum Seasons (Rise et Drift), flacon et coffret"
+    }
+   ],
    "slug": "seasons",
-   "name": "Seasons (Rise et Drift)",
-   "category": "parfums",
    "id": "seasons"
+  },
+  {
+   "name": "Byphasse",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "Pyphasse, lait éclaircissement",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/uploads/1793282785000-8a490887.jpg",
+     "alt": ""
+    },
+    {
+     "src": "/uploads/1793282785027-04fd2b77.jpg",
+     "alt": ""
+    }
+   ],
+   "slug": "byphasse",
+   "id": "byphasse"
+  },
+  {
+   "name": "Mixa",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "Mixa (Tous les couleurs)",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/uploads/1793283056384-de45cc08.jpg",
+     "alt": "Mixa"
+    }
+   ],
+   "slug": "mixa",
+   "id": "mixa"
+  },
+  {
+   "name": "Vaseline",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/uploads/1793283336554-81d74aaa.jpg",
+     "alt": "Vaseline"
+    },
+    {
+     "src": "/uploads/1793284288350-91c39d00.jpg",
+     "alt": "Vaseline"
+    }
+   ],
+   "slug": "vaseline",
+   "id": "vaseline"
+  },
+  {
+   "name": "COCOPULP",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/uploads/1793283456820-922ecd2a.jpg",
+     "alt": ""
+    }
+   ],
+   "slug": "cocopulp",
+   "id": "cocopulp"
+  },
+  {
+   "name": "Evoluderm",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "Lait corps hydratant",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "Prix, volume et notes olfactives à confirmer.",
+   "images": [
+    {
+     "src": "/uploads/1793283592273-5b4fbed6.jpg",
+     "alt": ""
+    }
+   ],
+   "slug": "evoluderm",
+   "id": "evoluderm"
+  },
+  {
+   "name": "Paw Paw",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "",
+   "images": [
+    {
+     "src": "/uploads/1793283758585-d4e1962a.jpg",
+     "alt": "Paw Paw"
+    },
+    {
+     "src": "/uploads/1793283758657-c5e8761f.jpg",
+     "alt": "Paw Paw"
+    },
+    {
+     "src": "/uploads/1793283758625-c9ea7fd3.jpg",
+     "alt": "Paw Paw"
+    }
+   ],
+   "slug": "paw-paw",
+   "id": "paw-paw"
+  },
+  {
+   "name": "Perfect Glow",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "",
+   "images": [
+    {
+     "src": "/uploads/1793283867465-b998d589.jpg",
+     "alt": "Perfect Glow"
+    }
+   ],
+   "slug": "perfect-glow",
+   "id": "perfect-glow"
+  },
+  {
+   "name": "Nivea",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": true,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "",
+   "images": [
+    {
+     "src": "/uploads/1793283950534-a3780466.jpg",
+     "alt": "Nivea"
+    }
+   ],
+   "slug": "nivea",
+   "id": "nivea"
+  },
+  {
+   "name": "Elixir Light",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "",
+   "images": [
+    {
+     "src": "/uploads/1793284022144-c4d531e7.jpg",
+     "alt": "Elixir Light"
+    }
+   ],
+   "slug": "elixir-light",
+   "id": "elixir-light"
+  },
+  {
+   "name": "Toudy",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "Toudy, savon Africain",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "",
+   "images": [
+    {
+     "src": "/uploads/1793284078361-c7f96da7.jpg",
+     "alt": "Toudy"
+    }
+   ],
+   "slug": "toudy",
+   "id": "toudy"
+  },
+  {
+   "name": "SkinDoctor",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "",
+   "images": [
+    {
+     "src": "/uploads/1793284206394-36c06134.jpg",
+     "alt": "SkinDoctor"
+    },
+    {
+     "src": "/uploads/1793284272100-e686cf84.jpg",
+     "alt": "SkinDoctor"
+    }
+   ],
+   "slug": "skindoctor",
+   "id": "skindoctor"
   }
  ]
 }
