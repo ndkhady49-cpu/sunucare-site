@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-preview
+server/data/*.json
+!server/data/.gitkeep
+server/uploads/*
+!server/uploads/.gitkeep
+.env

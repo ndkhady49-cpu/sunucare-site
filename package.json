@@ -1,0 +1,32 @@
+{
+  "name": "sunucare-shop",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Boutique en ligne SunuCare Shop : soins, beauté, bien-être, parfums et accessoires au Sénégal.",
+  "scripts": {
+    "dev": "vite",
+    "dev:api": "node --watch server/index.js",
+    "build": "vite build",
+    "build:preview-hash": "vite build --mode preview --outDir dist-preview",
+    "start": "NODE_ENV=production node server/index.js",
+    "preview": "vite preview"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.6",
+    "zustand": "^5.0.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.2.0",
+    "autoprefixer": "^10.6.2",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^3.4.19",
+    "vite": "^7.3.7"
+  }
+}

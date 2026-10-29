@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /panier
+Disallow: /commande
+Sitemap: https://VOTRE-DOMAINE/sitemap.xml
