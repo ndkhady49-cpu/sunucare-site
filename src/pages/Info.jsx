@@ -29,7 +29,7 @@ export function About() {
           <p>Nous livrons au Sénégal, avec une priorité sur Dakar. Les frais et le délai vous sont toujours annoncés avant la commande.</p>
         </div>
         <div className="overflow-hidden rounded-3xl ring-1 ring-gold/40">
-          <img src={asset('/images/brand/banniere-1200.webp')} alt="Univers SunuCare Shop" loading="lazy" className="h-auto w-full" />
+          <img src={asset('/images/brand/banniere-v2-1280.webp')} alt="Univers SunuCare Shop" loading="lazy" className="h-auto w-full" />
         </div>
       </div>
       <section className="container-x py-8">

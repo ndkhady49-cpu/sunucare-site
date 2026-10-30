@@ -8,7 +8,7 @@ import { SectionHeading } from '../components/Ui.jsx'
 import { ArrowRight, ChatIcon, GridIcon, ShieldIcon, TagIcon, TruckIcon, WhatsAppIcon } from '../components/Icons.jsx'
 import { waLink } from '../lib/whatsapp.js'
 
-const bannerSet = ['800', '1200', '1774'].map((w) => `${asset(`/images/brand/banniere-${w}.webp`)} ${w}w`).join(', ')
+const bannerSet = ['800', '1280'].map((w) => `${asset(`/images/brand/banniere-v2-${w}.webp`)} ${w}w`).join(', ')
 
 export default function Home() {
   const { categories, products, inCategory } = useCatalog()
@@ -40,24 +40,19 @@ export default function Home() {
       {/* Bannière : image fournie, affichée en entier sans déformation */}
       <section aria-labelledby="hero-title" className="relative bg-ivory">
         <h1 id="hero-title" className="sr-only">SunuCare Shop, votre quotidien mérite le meilleur</h1>
-        <div className="relative">
-          <img
-            src={asset('/images/brand/banniere-1200.webp')}
-            srcSet={bannerSet}
-            sizes="100vw"
-            width="1774"
-            height="887"
-            alt="Sélection SunuCare Shop : soins, accessoires électroniques, objets du quotidien et bien-être, dans un décor vert et or"
-            className="block h-auto w-full"
-            fetchpriority="high"
-          />
-          {/* Sur grand écran, le message occupe la zone ivoire vide au centre de la bannière */}
-          <div className="absolute inset-0 hidden items-start justify-center lg:flex">
-            <HeroText className="mt-[5.5%] w-[34%] max-w-[520px] text-center" />
-          </div>
-        </div>
-        <div className="border-b border-gold/20 bg-white lg:hidden">
-          <HeroText className="container-x py-8 text-center" />
+        <img
+          src={asset('/images/brand/banniere-v2-1280.webp')}
+          srcSet={bannerSet}
+          sizes="100vw"
+          width="1280"
+          height="355"
+          alt="SunuCare Shop, Santé et Bien-Être : cosmétiques et soins, parfums de marque, accessoires téléphone"
+          className="block h-auto w-full"
+          fetchpriority="high"
+        />
+        {/* Message d'accueil sous la bannière, pour ne rien cacher de l'image */}
+        <div className="border-b border-gold/20 bg-white">
+          <HeroText className="container-x py-8 text-center lg:py-10" />
         </div>
       </section>
 
@@ -191,15 +186,15 @@ function HeroText({ className }) {
   return (
     <div className={className}>
       <p className="eyebrow mb-3">SunuCare Shop</p>
-      <p className="font-display text-[2rem] font-semibold leading-[1.1] text-forest sm:text-4xl lg:text-[clamp(1.9rem,3vw,3.1rem)]">
+      <p className="font-display text-[2rem] font-semibold leading-[1.1] text-forest sm:text-4xl lg:text-5xl">
         Votre quotidien mérite le meilleur.
       </p>
-      <p className="mx-auto mt-3 max-w-md text-[14px] leading-6 text-ink-600 lg:text-[clamp(.8rem,1vw,1rem)]">
+      <p className="mx-auto mt-3 max-w-md text-[14px] leading-6 text-ink-600 lg:text-base">
         Découvrez notre sélection de soins, beauté, bien-être, parfums et accessoires pratiques.
       </p>
       <div className="mt-5 flex flex-wrap justify-center gap-2.5">
-        <Link to="/boutique" className="btn-primary lg:px-5 lg:py-2.5 xl:px-6 xl:py-3">Découvrir la boutique</Link>
-        <button type="button" onClick={() => document.getElementById('categories')?.scrollIntoView({ behavior: 'smooth' })} className="btn-outline bg-white/70 lg:px-5 lg:py-2.5 xl:px-6 xl:py-3">
+        <Link to="/boutique" className="btn-primary">Découvrir la boutique</Link>
+        <button type="button" onClick={() => document.getElementById('categories')?.scrollIntoView({ behavior: 'smooth' })} className="btn-outline bg-white/70">
           Explorer les catégories
         </button>
       </div>
