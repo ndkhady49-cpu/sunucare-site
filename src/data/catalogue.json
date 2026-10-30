@@ -4,7 +4,7 @@
    "slug": "soins-visage",
    "name": "Soins & Visage",
    "description": "Masques, gels et soins pour prendre soin de votre peau et de votre sourire au quotidien.",
-   "image": "/images/categories/soins-visage-600.webp",
+   "image": "/uploads/1793386005869-02ccac25.jpg",
    "imageAlt": "Flacons et tubes de soins sur un présentoir doré",
    "order": 1,
    "hidden": false
@@ -13,7 +13,7 @@
    "slug": "bien-etre-massage",
    "name": "Bien-être & Massage",
    "description": "Des appareils de massage pour s'accorder un moment de détente à la maison.",
-   "image": "/images/products/scalp-massager-2-450.webp",
+   "image": "/uploads/1793386017663-26fba721.jpg",
    "imageAlt": "Femme utilisant un masseur de cuir chevelu",
    "order": 2,
    "hidden": false
@@ -22,7 +22,7 @@
    "slug": "parfums",
    "name": "Parfums",
    "description": "Une sélection de parfums de marque, à découvrir et à commander simplement.",
-   "image": "/images/products/parfum-9pm-450.webp",
+   "image": "/uploads/1793386024129-9bfae249.jpg",
    "imageAlt": "Flacon de parfum Afnan 9PM et son coffret",
    "order": 3,
    "hidden": false
@@ -31,7 +31,7 @@
    "slug": "beaute-corps",
    "name": "Beauté & Corps",
    "description": "Des soins pour le corps, les jambes et la peau, choisis selon leur usage.",
-   "image": "/images/products/envisha-1-450.webp",
+   "image": "/uploads/1793386085951-45b4316f.jpg",
    "imageAlt": "Tube ENVISHA Scar Removal",
    "order": 4,
    "hidden": false
@@ -40,7 +40,7 @@
    "slug": "accessoires",
    "name": "Accessoires & Objets pratiques",
    "description": "Accessoires électroniques et objets utiles au quotidien.",
-   "image": "/images/categories/accessoires-600.webp",
+   "image": "/uploads/1793386105856-7baa467f.jpg",
    "imageAlt": "Casque, montre connectée, téléphone et gourde",
    "order": 5,
    "hidden": false
@@ -1377,6 +1377,164 @@
    ],
    "slug": "skindoctor",
    "id": "skindoctor"
+  },
+  {
+   "name": "White Target",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "",
+   "images": [
+    {
+     "src": "/uploads/1793384953651-dc3966e9.jpg",
+     "alt": "White Target"
+    },
+    {
+     "src": "/uploads/1793384953581-573b4d75.jpg",
+     "alt": "White Target"
+    }
+   ],
+   "slug": "white-target",
+   "id": "white-target"
+  },
+  {
+   "name": "Pretty Woman",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "",
+   "images": [
+    {
+     "src": "/uploads/1793385029770-6c98d14c.jpg",
+     "alt": ""
+    },
+    {
+     "src": "/uploads/1793385029827-40867fb8.jpg",
+     "alt": ""
+    }
+   ],
+   "slug": "pretty-woman",
+   "id": "pretty-woman"
+  },
+  {
+   "name": "Longrich",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "",
+   "images": [
+    {
+     "src": "/uploads/1793385131235-682fe620.jpg",
+     "alt": ""
+    }
+   ],
+   "slug": "longrich",
+   "id": "longrich"
+  },
+  {
+   "name": "Mogotas Mora",
+   "category": "parfums",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "",
+   "images": [
+    {
+     "src": "/uploads/1793385238125-06c54123.jpg",
+     "alt": ""
+    }
+   ],
+   "slug": "mogotas-mora",
+   "id": "mogotas-mora"
+  },
+  {
+   "name": "Glow & Shine",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "",
+   "images": [
+    {
+     "src": "/uploads/1793385379234-0357737e.jpg",
+     "alt": ""
+    }
+   ],
+   "slug": "glow-shine",
+   "id": "glow-shine"
+  },
+  {
+   "name": "Daumy",
+   "category": "beaute-corps",
+   "price": null,
+   "comparePrice": null,
+   "stock": null,
+   "availability": "disponible",
+   "hidden": false,
+   "featured": false,
+   "short": "",
+   "description": "",
+   "features": [],
+   "usage": "",
+   "precautions": "",
+   "volume": null,
+   "adminNote": "",
+   "images": [
+    {
+     "src": "/uploads/1793385466157-b8729497.jpg",
+     "alt": ""
+    }
+   ],
+   "slug": "daumy",
+   "id": "daumy"
   }
  ]
 }
